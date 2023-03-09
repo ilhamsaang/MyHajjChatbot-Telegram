@@ -339,5 +339,144 @@ yang memperdaya.(QS. Ali Imran (3): 185).\"
 """})
 
 qa({"context": """
+Niat Shalat Jenazah,\nNiat Shalat jenazah untuk laki-laki:\"Ushalli ‘alâ hâdzal mayyiti fardlan lillâhi ta’âlâ.\". 
+Artinya:\"Aku niat salat atas jenazah (laki-laki) ini fardu karena Allah ta’âlâ.\".\nNiat shalat jenazah untuk 
+perempuan:\"Ushalli ‘alâ hâdzihil mayyitati fardlan lillâhi ta’âlâ.\". Artinya:\"Aku niat salat atas jenazah yang 
+disalati imam fardu karena Allah ta’âlâ.\".\nNiat shalat jenazah anak laki-laki\"Usholli ‘Alaa Haadzihil Mayyiti 
+Thifli Arba’a Takbiratatin Fardhol Kifayaatai Lillahi Ta’aala.\". Artinya:\"Saya niat sholat atas jenazah anak lelaki 
+ini empat kali takbir fardu kifayah, hanya karena Allah Ta’ala.\".\nNiat shalat jenazah anak perempuan:\"Usholli ‘Alaa 
+Haadzihil Mayyitati Thiflati Arba’a Takbiratatin Fardhol Kifayaatai Lillahi Ta’aala.\". Artinya:\"Saya niat sholat 
+atas jenazah anak perempuan ini empat kali takbir fardu kifayah, hanya karena Allah Ta’ala.\".\nNiat menjadi makmum 
+sholat jenazah:\"Ushalli ‘alâ man shalla ‘alaihil imâmu ma’mûman fardlan lillâhi ta’âlâ.\". Artinya:\"Aku niat 
+salat atas jenazah yang disalati imam fardu karena Allah ta’âlâ.\".
+"""})
 
+qa({"context": """
+Tata cara lengkap shalat jenazah,\n1.\tNiat\nKarena niat termasuk rukun maka tentu wajib diikut sertakan dalam 
+pelaksanaan sholat jenazah. Boleh dibaca namun jangan hanya selesai sampai bacaan saja ikutkan niat sampai akhir 
+sholat jenazah. Yakni niat sholat karena Allah SWT.\n2.\tKarena niat termasuk rukun maka tentu wajib diikut sertakan 
+dalam pelaksanaan sholat jenazah. Boleh dibaca namun jangan hanya selesai sampai bacaan saja ikutkan niat sampai 
+akhir sholat jenazah. Yakni niat sholat karena Allah SWT. Setelah niat maka langsung membaca takbirotul ihrom layaknya 
+seperti sholat pada umumnya. Kemudian dilanjutkan dengan membaca surat Al-Fatihah.\n3.\tMembaca Takbir Kedua,\n
+Disunnahkan untuk mengangkat tangan sampai menyentuh telinga dan meletakkannya kembali ke pusar.\nKemudian membaca 
+sholawat nabi Muhammad SAW:\"Allohumma sholli ‘alaa Muhammad wa ‘alaa aali Muhammad kamaa shollaita ‘alaa Ibroohiima 
+wa ‘alaa aali Ibroohim, innaka hamiidum majiid.\".\n\"Allohumma baarik ‘alaa Muhammad wa ‘alaa aali Muhammad kamaa 
+baarokta ‘alaa Ibroohiima wa ‘alaa aali Ibroohim, innaka hamiidum majiid.\". Artinya:\"Ya Allah, berilah rahmat kepada 
+Nabi Muhammad dan keluarga Nabi Muhammad. Sebagaimana Engkau telah memberikan rahmat kepada Nabi Ibrahim dan keluarga 
+Nabi Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia, Ya Allah, berilah keberkahan kepada Nabi Muhammad dan 
+keluarga Nabi Muhammad. Sebagaimana Engkau telah memberikan keberkahan kepada Nabi Ibrahim dan keluarga Nabi Ibrahim. 
+Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.\".\n4.\tMembaca Takbir Ketiga,\nSetelah membaca sholawat nabi maka 
+dilanjutkan dengan takbir yang ketiga sama seperti takbir sebelumnya. Kemudian membaca Doa Jenazah yang diriwayatkan 
+oleh muslim dalam sebuah hadis shohih.\nBacaan Doa Untuk Jenazah Laki-Laki:\"Allohummaghfirlahu warhamhu wa’aafihi 
+a’fu ‘anhu wa akrim nuzulahu wawassi’ Mudkholahu waghsilhu bil maa-i wats tsalji wal barod, Wa naqqihi minal khothooyaa 
+kamaa naqqoitats tsaubal abyadho minad danas, Wa abdilhu daaron khoiron min daarihi wa ahlan khoiron min ahlihi 
+wa zaujan khoiron min zaujihi, Wa adkhilhul jannata wa a’idzhu min ‘adzaabin qobri au min ‘adzaabin naar.\". Artinya:
+\"Ya Allah, ampunilah dan rahmatilah dia. Bebaskanlah dan maafkanlah dia. Luaskanlah kuburnya dan mandikanlah ia 
+dengan air, salju, dan embun. Sucikan ia dari seluruh kesalahan seperti dibersihkannya kain putih dari kotoran. 
+Berikan ia rumah yang lebih baik dari rumahnya (di dunia), keluarga yang lebih baik dari keluarganya. Pasangan yang 
+lebih baik dari pasangannya, lalu masukkanlah ia ke dalam surga dan lindungilah ia dari cobaan kubur dan azab neraka.\".
+\nBacaan Doa Untuk Jenazah Perempuan:\"Allohummaghfirlahaa warhamhaa wa’aafihaa wa’fu ‘anhaa wa akrim nuzulahaa 
+Wawassi’ mudkholahaa waghsilhaa bil maa-i wats tsalji wal barod. Wa naqqihaa minal khothooyaa kamaa naqqoitats tsaubal 
+abyadho minad danas. Wa abdilhaa daaron khoiron min daarihaa wa ahlan khoiron min ahlihaa. Wa zaujan khoiron min 
+zaujihaa wa adkhilhal jannata wa a’idzhaa min ‘adzaabin qobri au min ‘adzaabin naar.\". Artinya:\"Ya Allah, ampunilah 
+dan rahmatilah dia. Bebaskanlah dan maafkanlah dia.\".Untuk jenazah perempuan, doa singkat tersebut menjadi: 
+\"Allohummaghfirlahaa warhamhaa wa’aafihaa wa’fu ‘anhaa.\".\n4.\tMembaca Takbir Keempat,\nJika sudah membaca doa untuk 
+jenazah maka dilanjutkan kembali membaca takbir dengan cara seperti takbir sebelumnya. Kemudian membaca doa kembali 
+untuk jenazah dengan doa seperti dibawah ini,\nJenazah Laki-Laki:\"Allohumma laa tahrimnaa ajrohu wa laa taftinnaa 
+ba’dahu waghfirlanaa walahu.\". Artinya:\"Ya Allah, jangan haramkan kami dari pahalanya dan jangan cobai kami 
+sepeninggalnya. Ampunilah kami dan ampunilah dia.\".\nJenazah Perempuan:\"Allohumma laa tahrimnaa ajrohaa wa laa 
+taftinnaa ba’dahaa waghfirlanaa walahaa.\". Artinya:\"Ya Allah, jangan haramkan kami dari pahalanya \"Jenazah 
+Perempuan\"dan jangan cobai kami sepeninggalnya \"Jenazah Perempuan\". Ampunilah kami dan ampunilah dia 
+\"Jenazah Perempuan.\".\n5.\tMengucapkan Salam,\nSetelah keempat takbir tersebut dibaca semua berikut doa yang ada 
+didalamnya maka jangan lupa untuk mengucapkan Salam.\n\"Assalaamu’alaikum warohmatulloohi wabarookaatuh.\". Artinya:
+\"Semoga keselamatan rahmat Allah dan berkah-Nya limpahkan kepada kalian.\". Sambil menoleh kekanan dan dilanjutkan 
+menoleh kekiri seraya membaca salam seperti diatas.
+"""})
+
+qa({"context": """
+Doa Safar untuk perjalanan,\n\"Bismilaahi tawakkaltu ‘alallahi wa laa hawla wa laa quwwata illaa billaahi. Allohumma 
+hawwin ‘alainaa safaranaa hadzaa waathwi ‘annaa bu’dahu. Allohumma antashookhibu fiissafari walkholiifatu fiil ahli. 
+Alhamdulillahil ladzi sakhkhoro lana hadza wa ma kunna lahu muqrinina wa inna ila rabbina lamunqalibun. A'udzu bi 
+kalimaatillahit taammaati min syarri maa khalaq. Allahummalthuf bi fi taisiri kulli 'asir fa inna taisira kulli 
+'asirin 'alaika yasir, wa as alukal yusra wal mu'afata fid dunya wal akhirati.\". Artinya:\"Dengan menyebut nama Allah, 
+aku menyerahkan diriku pada Allah dan tidak ada daya dan kekuatan selain dengan Allah saja. Ya Allah, mudahkanlah 
+kami berpergian ini, dan dekatkanlah kejauhannya. Ya Allah yang menemani dalam berpergian, dan Engkau pula yang 
+melindungi keluarga. Segala puji bagi Allah yang telah menundukkan semua ini bagi kami, padahal sebelumnya kami tidak 
+mampu menguasainya, dan sesungguhnya hanya kepada Tuhan kami-lah kami akan kembali. Aku berlindung dengan kalimat 
+Allah yang sempurna dari kejahatan ciptaan-Nya. Ya Allah, lunakkanlah kepadaku dalam memudahkan setiap sesuatu yang 
+sulit karena memudahkan setiap sesuatu yang sulit bagi-Mu sangat mudah, dan aku memohon kepada-Mu kemudahan dan 
+kesehatan di dunia dan akhirat.\".
+"""})
+
+qa({"context": """
+1.\tShalat Sunnah 2 (dua) Rakaat sebelum bepergian,\nNiat Shalat Sunnah:\"Ushallii sunnatas safari rak’ataini lillâhi 
+ta’aala.\". Artinya:\"Saya niat shalat safar dua rakaat karena Allah Ta’ala, Allahu Akbar.\". Bacaan yang sebaiknya 
+dibaca setelah surat Al-Fatihah pada rakaat pertama adalah surat Al-Kafirun atau Al-Falaq. Sedangkan pada rakaat kedua 
+membaca surat Al-Ikhlas atau An-Nas. Setelah selesai mengerjakan shalat safar, baca ayat Kursi dan surat Al-Quraisy. 
+Sebelum berangkat dianjurkan membaca doa yang biasa Rasulullah SAW baca saat hendak pergi, yaitu:\"Allahumma ilaika 
+tawajjahtu wa bika’tashamtu. Allahummakfinii maa hammanii wa maa laa ahtammu lahu. Allahumma zawwidnit taqwaa 
+waghfirlii dzanbii. Wa wajjihnii lil khairi ainamaa tawajjahtu.\". Artinya:\"Ya Allah, hanya kepada-Mu aku menghadap 
+dan hanya kepada-Mu aku berlindung. Tuhanku, cukupilah aku dari segala yang membuatku bimbang dan segala yang tidak 
+kubimbangkan. Tuhanku, bekalilah diriku dengan takwa, ampunilah dosaku, dan hadapkan diriku pada kebaikan di mana 
+saja aku menghadap.\".\n2.\tDo’a Keluar Rumah,\nDianjurkan untuk melangkahkan kaki keluar dari pintu rumah dengan 
+mendahulukan kaki kiri, kemudian membaca doa berikut:\"Astaudi’uukumullaahal ladzi laa tadhi’u wa daa-i’uhu. 
+Bismillaahi tawakkaltu ‘alallaah, la haula walaa quwwata illaa billaahil ‘aliyyil ‘adzim.\". Artinya:\"Saya titipkan 
+kalian semua (keluarga dan harta bendaku) kepada Allah, yang tidak akan mungkin hilang segala yang dititipkan 
+kepada-Nya. Dengan nama Allah, aku bertawakal kepada Allah. Tidak ada daya dan kekuatan apa pun kecuali dengan Allah 
+yang Maha Tinggi lagi Maha Agung.\".
+"""})
+
+qa({"context": """
+Do’a Ketika Duduk di dalam Kendaraan,\nApabila naik kendaraan laut dan sudah berada di atas kendaraan, maka berdoalah 
+dengan doa berikut:\"Bismillaahi majreehaa wa mursaahaa, inna rabbii laghafuurur rahim.\". Artinya:\"Dengan nama Allah 
+di waktu berlayar dan berlabunya, sesungguhnya Tuhanku benar-benar Maha Pengampun lagi Maha Penyayang.\". Sedangkan 
+jika naik kendaraan darat, dan kendaraan tersebut mulai bergerak hendaklah membaca doa berikut:\"Subhaanalladzi 
+sakhkhara lanaa haadzaa wamaa kunnaa lahu muqrinin, wa innaa ilaa rabbina lamunqalibuun.\". Artinya:\"Mahasuci Allah 
+yang telah memudahkan perjalanan ini bagi kami, padahal kami tidak ada kesanggupan mengendalikannya, dan bahwa 
+sesungguhnya kami semua pasti akan kembali kepada Tuhan kami kelak.\".\nSelama dalam perjalanan, hendaknya memperbanyak 
+bacaan doa agar diberikan keselamatan dan perlindungan oleh Allah SWT, berikut doanya:\"Hasbunallaahu wani’mal wakiil, 
+ni’mal maulaa wa ni’man nashiir.\". Artinya:\"Cukuplah Allah menjadi penolong kami dan Allah adalah sebaik-baiknya 
+pelindung. Dia adalah sebaik-baik pelindung dan sebaik-baik penolong.\". Selain itu, apabila menemukan jalan yang 
+sangat menanjak serta tikungan tajam, dapat membaca kalimat takbir \"Allahu akbar\", jalan menurun membaca kalimat 
+tasbih \"Subhanallah\". Ketika kembali pada jalan yang rata atau menyenangkan, bacalah hamdalah \"Alhamdulillah\". 
+Sekiranya terdapat banyak kendala dan bahaya di tengah perjalanan, maka hendaknya memperbanyak bacaan surat Al-Quraisy.
+"""})
+
+qa({"context": """
+Do’a Ketika Tiba di Tempat Tujuan,\nApabila sudah sampai di tempat tujuan, jangan lupa tetap membaca doa sebagai 
+bentuk rasa syukur kepada Allah karena Anda dan keluarga bisa selamat dan lancar di perjalanan.\"Allaahumma innii as 
+aluka lhairohaa wakhairo ahlihaa wakhairo maa fiihaa wa a'uudzubika min syarrihaa wa syaarri ahlihaa wa syarri 
+maa fiihaa.\". Artinya:\"Ya Allah, saya mohon kepada-Mu kebaikan negeri ini dan kebaikan penduduknya serta kebaikan 
+yang ada di dalamnya. Saya berlindung kepada-Mu dari kejahatan negeri ini dan kejahatan penduduknya serta kejahatan 
+yang ada di dalamnya.\".
+"""})
+
+qa({"context": """
+Do'a masuk Kota Madinah,\n\"Allahumma haadzaa haraamu rasuulila waj'alhu waqaayatan minan naari wa amanatan minal 
+'adzaabi wa suu'al hisaabi.\".\nArtinya:\"Ya Allah, negeri ini adalah tanah haram Rasul Mu Muhammad SAW, maka 
+jadikanlah penjaga bagiku dari neraka, aman dari siksa dan buruknya hisab perhitungan di hari 
+(perhitungan di hari kemudian).\".                                                                       
+"""})
+
+qa({"context": """
+Do’a Masuk Masjid Nabawi,\n\"Bismillah wa'alaa millati rasulillahi. Rabbi adkhilnii mudkhala shidqin wa akhrijni 
+mukhraja Shidqin waj'al lii min ladunka sulthaana nashiiraa. Allahumma shalli Alaa sayyidina muhammadin wa'alaa aali 
+sayyidina muhammadin waghfir lii dzunuubii waftah lii abwaaba rahmatika wa adkhilni fiiha ya arhamar rahimiin.\".
+\nArtinya:\"Dengan nama Allah dan atas agama Rasulullah. Ya Allah, masukkanlah aku dengan cara masuk yang benar, dan 
+keluarkanlah pula aku dengan cara keluar yang benar, dan berikanlah kepadaku dari sisi-Mu kekuasaan yang dapat menolong. 
+Ya Allah, limpahkanlah rahmat kepada junjungan kami Muhammad dan keluarganya. Ampunilah dosaku, bukalah pintu rahmat-Mu 
+bagiku dan masukkanlah aku ke dalamnya, wahai Tuhan Yang Maha Pengasih dari yang segala yang pengasih.\".
+"""})
+
+qa({"context": """
+Do’a Salam Kepada Rasulullah, ketika Berada di Makam Rasulullah SAW,\n\"Assalaamu ‘alaikum ayyuhan nabiyyu warahmatuhu 
+wabarakatuhu, allahumma atihil washiilata wal fadhiilata wab’asthul maqaamal mahmuudal ladzii wa’adtahu allahumma 
+ajzihi ‘an ummatihi afdhalal jazaa’.\". Artinya:\"Semoga salama sejahtera , rahmat Allah, dan berkah-Nya terlimpah 
+kepadamu, wahai Nabi Muhammad. Ya Allah, berilah beliau kedudukan tinggi di surga dan kemuliaan, serta bangkitkanlah 
+beliau di tempat yang terpuji yang telah Engkau janjikan kepadanya. Ya Allah, limpahkanlah kepada-Nya sebaik-baik 
+pahala, beliau yang telah menyampaikan risalah kepada umatnya.\".
+"""})
+
+qa({"context": """
+Do’a Salam Kepada Sayyidina Abu Bakar al-Shidiq r.a.,\n
 """})
