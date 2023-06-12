@@ -143,13 +143,13 @@ def answer_question(update: Update, context: CallbackContext) -> None:
         if best_context is None:
             update.message.reply_text("Maaf, saya tidak dapat menemukan rute lokasi yang Anda cari.")
             return
-        url, lati, longi, translations= extract_info_from_context(best_context)
+        url, lati, longi, tempatpenting= extract_info_from_context(best_context)
         for i in range(len(url)):
             chat_id = update.effective_chat.id
             latitude = lati[0]
             longitude = longi[0]
             location_name = url[0].replace(" ", "+")
-            answer = f"map lokasi yang anda cari: {translations[i]}\n\n https://www.google.com/maps/search/{location_name}"
+            answer = f"map lokasi yang anda cari: {tempatpenting[i]}\n\n https://www.google.com/maps/search/{location_name}"
             answer_map = context.bot.send_location(chat_id=chat_id,latitude=latitude, longitude=longitude)
             update.message.reply_text(answer) & message(answer_map)
 

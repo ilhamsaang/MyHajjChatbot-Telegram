@@ -1,8 +1,9 @@
 import itertools
 from typing import Dict, Union
 
-from nltk import sent_tokenize
+
 import nltk
+from nltk import sent_tokenize
 
 nltk.download('punkt')
 import torch
@@ -75,6 +76,9 @@ class TaskPipeline(QAPipeline):
         )
         answer = self.tokenizer.decode(outs[0], skip_special_tokens=True)
         return answer
+
+    def predict(self, message):
+        pass
 
 
 def pipeline():
