@@ -1,4 +1,4 @@
-.env
+
 qarty4.py
 qatry2.py
 qatry3.py
@@ -13,3 +13,4 @@ tampilan_bot.py
 userdata
 README.md
 /dataset
+.env
