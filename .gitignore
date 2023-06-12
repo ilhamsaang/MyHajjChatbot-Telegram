@@ -272,7 +272,6 @@ pyrightconfig.json
 *.wps
 
 # End of https://www.toptal.com/developers/gitignore/api/text,python,pycharm+all
-
 qarty4.py
 qatry2.py
 qatry3.py
