@@ -292,4 +292,8 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python,dotenv,pycharm
 
 /dataset
+
 .env
+
+cari_tempat&keperluan_backup.db
+cari_tempat&keperluan.db
