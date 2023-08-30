@@ -18,6 +18,50 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 load_dotenv()
 bot_token = os.getenv('BOT_TOKEN_ADMIN')
+if not os.path.exists('cari_tempat&keperluan.db'):
+    # Jika belum ada, maka membuat koneksi ke database dan tabel
+    conn = sqlite3.connect('cari_tempat&keperluan.db')
+    cursor = conn.cursor()
+
+    # Membuat tabel "Host"
+    cursor.execute('''
+        CREATE TABLE Host (
+            id_host INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+            hostusername VARCHAR(255) NOT NULL,
+            password VARCHAR(255) NOT NULL
+        );
+    ''')
+
+    # Membuat tabel "admin"
+    cursor.execute('''
+        CREATE TABLE admin (
+            id_admin INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+            username VARCHAR(255) NOT NULL UNIQUE,
+            password TEXT NOT NULL
+        );
+    ''')
+
+    # Membuat tabel "fuzzy"
+    cursor.execute('''
+        CREATE TABLE fuzzy (
+            id_fuzzy INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+            tempat TEXT NOT NULL,
+            latitude INTEGER NOT NULL,
+            longitude INTEGER NOT NULL,
+            like INTEGER NOT NULL,
+            dislike INTEGER NOT NULL,
+            last_like TEXT,
+            last_dislike TEXT
+        );
+    ''')
+
+    # Commit perubahan dan tutup koneksi
+    conn.commit()
+    conn.close()
+
+    print("Basis data dan tabel berhasil dibuat!")
+else:
+    print("Basis data sudah ada. Tidak perlu membuat lagi.")
 database_file = 'cari_tempat&keperluan.db'
 DELETE_ADMIN = range(1)
 # Fungsi untuk membuat backup database
