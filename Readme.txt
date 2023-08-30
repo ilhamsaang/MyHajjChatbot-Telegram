@@ -1,4 +1,5 @@
-Desain Interaksi Q/A Closed Domain Dukungan Peta Navigasi Keperluan Jamaah Haji
+MyHajj merupakan chatbot pada media sosial telegram yang merupakan hasil dari tugas akhir dengan judul:
+"Desain Interaksi Q/A Closed Domain Dukungan Peta Navigasi Keperluan Jamaah Haji"
 
 Project ini merupakan Project Tugas Akhir yang digunakan untuk menguji IDT5 yaitu yang merupakan hasil dari penggunaan MT5 yang hanya dikhususkan pada bahasa indonesia saja. Dalam hal ini digunakan untuk mengolah pertanyaan dari pengguna yaitu jamaah haji maupun umrah dari indonesia dengan penggunaan chatbot pada media sosial telegram untuk mendapatkan informasi berupa peta navigasi untuk mencari keperluan selama sedang melaksanakan ibadah haji maupun umrah.
 
