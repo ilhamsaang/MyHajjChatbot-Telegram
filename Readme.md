@@ -41,12 +41,11 @@ The chatbot leverages the [**Indonesian T5 (IDT5)**](https://huggingface.co/much
 
    Create a .env file in the root directory.
 
-  Add your Telegram Bot Token on .env file:
-  TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+   Add your Telegram Bot Token on .env file:
+   TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
 
 4. **Run the Bot**
-
-  Bash : python Main.py
+   Bash : python Main.py
 
 
 
