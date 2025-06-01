@@ -47,6 +47,31 @@ The chatbot leverages the [**Indonesian T5 (IDT5)**](https://huggingface.co/much
 4. **Run the Bot**
 
    Bash : python Main.py
+## 🤖 How to Use
+
+1. Open Telegram.  
+2. Search for your bot (the name you gave it with BotFather).  
+3. Start the conversation.  
+4. Ask any Hajj-related question — the bot will respond based on its trained knowledge.  
+5. Optionally, send navigation-related prompts to receive map support.  
+
+---
+
+## 🧠 Model Information
+
+- **Model:** [Indonesian T5 (IDT5)] — fine-tuned for both:  
+  - Question Answering (extractive QA)  
+  - Question Generation (for dataset expansion)  
+
+- **Dataset:** Custom dataset built around Hajj topics and Indonesian language sources.
+
+---
+
+## 📚 Acknowledgments
+
+- Indonesian NLP contributors  
+- Resources from Indonesian Hajj guidance material  
+- Hugging Face Transformers & Tokenizers
 
 
 
